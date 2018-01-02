@@ -1,0 +1,7 @@
+---
+title: "RMD"
+author: "Alex Partridge"
+date: "1/2/2018"
+output: pdf_document
+---
+DADADADAAD
